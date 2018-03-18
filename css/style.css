@@ -19,3 +19,7 @@ p.grey-text {
 .tedhead-img {
   background-image: 'https://mdbootstrap.com/img/Photos/Others/project4.jpg';
 }
+
+#hiKarl header {
+  height: 63px;
+}
