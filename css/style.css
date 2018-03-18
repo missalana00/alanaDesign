@@ -1,0 +1,21 @@
+nav {
+  font-family: 'SeasonedHostess';
+}
+
+a.nav-fontsize {
+  font-size: 1.4em;
+  margin-right: 1em;
+}
+
+h2.fontThisRight {
+  font-family: 'SeasonedHostess';
+  font-size: 2.5em;
+}
+
+p.grey-text {
+  font-family: 'Didact Gothic', sans-serif;
+}
+
+.tedhead-img {
+  background-image: 'https://mdbootstrap.com/img/Photos/Others/project4.jpg';
+}
