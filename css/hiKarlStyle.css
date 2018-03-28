@@ -1,10 +1,5 @@
 nav {
-  /* font-family: 'SeasonedHostess'; */
-  font-family: 'Didact Gothic', sans-serif;
-}
-
-.nav-item {
-  margin-right: 0.5em;
+  font-family: 'SeasonedHostess';
 }
 
 a.nav-fontsize {
@@ -17,10 +12,9 @@ h2.fontThisRight {
   font-size: 2.5em;
 }
 
-p.text {
+p.grey-text {
   font-family: 'Didact Gothic', sans-serif;
-  font-size: 18px;
-  color: black;
+  font-size: 14.5px;
 }
 
 .tedhead-img {
@@ -99,6 +93,43 @@ p.descriptionsFont {
   margin-bottom: 50px;
 }
 
-.addMarginTop {
-  margin-top: 150px;
+.pageHeader {
+  font-family: 'Didact Gothic', sans-serif;
+}
+
+.addMargin {
+  margin-top: 50px;
+}
+
+.addMarginBottom {
+  margin-bottom: 275px;
+}
+
+.addMarginBottom2 {
+  margin-bottom: 175px;
+}
+
+/* .headings, */
+.blurbs {
+  font-family: 'Didact Gothic', sans-serif;
+  font-size: 1.2em;
+}
+
+.centerCopyright {
+  text-align: center;
+}
+
+.openItalic {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.openSemiBold {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600;
+}
+
+.pageBGcolor {
+  background-color: #fafafa;
 }
