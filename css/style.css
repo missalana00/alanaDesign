@@ -102,3 +102,10 @@ p.descriptionsFont {
 .addMarginTop {
   margin-top: 150px;
 }
+
+#projects {
+  height: 62px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
