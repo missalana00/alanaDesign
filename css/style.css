@@ -114,3 +114,11 @@ p.descriptionsFont {
   height: 322.8px;
   width: 586.02px;
 } */
+
+.finished {
+  height: 485px;
+  width: 1075px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
